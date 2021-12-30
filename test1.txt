@@ -1,0 +1,23 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 9841-2D5E
+
+ Directory of C:\Users\KIIT\Documents\Practice
+
+30-12-2021  23:31    <DIR>          .
+30-12-2021  23:31    <DIR>          ..
+30-12-2021  19:13               347 area_circumferance.c
+30-12-2021  19:13           422,210 area_circumferance.exe
+30-12-2021  19:25               317 area_triangle.c
+30-12-2021  19:25           422,189 area_triangle.exe
+30-12-2021  19:18               206 asc_value.c
+30-12-2021  19:18           422,189 asc_value.exe
+30-12-2021  20:11               405 gross_salary.c
+30-12-2021  20:11           422,189 gross_salary.exe
+30-12-2021  19:50               279 name_abbreviation.c
+30-12-2021  19:50           422,209 name_abbreviation.exe
+30-12-2021  20:19                97 percent_5subs.c
+30-12-2021  20:03               390 simple_interest_amount.c
+30-12-2021  20:03           422,214 simple_interest_amount.exe
+30-12-2021  23:31                 0 test1.txt
+              14 File(s)      2,535,241 bytes
+               2 Dir(s)  424,608,862,208 bytes free
